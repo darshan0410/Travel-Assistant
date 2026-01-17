@@ -164,10 +164,10 @@ if st.button("🚀 Generate Travel Plan"):
                 st.markdown(
                     f"""
                     <div style="
-                        border:1px solid #ddd;
+                        border:1px solid #F54927;
                         border-radius:10px;
                         padding:15px;
-                        background:#f9f9f9;
+                        background:#F54927;
                         text-align:center;
                     ">
                         <h4>✈️ {airline}</h4>
